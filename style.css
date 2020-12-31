@@ -76,7 +76,7 @@ h3 {
   justify-content: center;
   align-items: center;
   text-align: center;
-  flex-flow: column;
+  flex-direction: column;
   flex: 1;
   transition: 0.3s ease;
 }
